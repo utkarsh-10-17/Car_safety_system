@@ -1,0 +1,26 @@
+# requirements.txt
+
+# 📌 Software & IDE
+Arduino IDE (latest version)
+
+# 📌 Board Support
+ESP32 board support (install via Arduino IDE Boards Manager)
+
+# 📌 Arduino Libraries (install via Library Manager)
+TinyGPS++ library
+Adafruit MQTT library
+
+# 📌 Cloud / IoT
+Adafruit IO account (https://io.adafruit.com)
+
+# 📌 Hardware Components
+ESP32 development board
+NEO-6M GPS module
+MQ2 gas sensor
+Piezoelectric vibration sensor
+Buzzer
+Jumper wires
+Breadboard (optional, for prototyping)
+
+# 📌 Network
+Wi-Fi network credentials (SSID & password) for connecting ESP32 to the internet
